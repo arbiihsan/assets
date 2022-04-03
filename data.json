@@ -13,28 +13,24 @@
         "creators": [
             {
                 "address": "CmGJjs9tBEkpVvGLX8Sk7YF8JdrEAb4gjPuogb4dtMTX",
-                "share": 0
-            },
-            {
-                "address": "5WkUK9SrJqM9hr87ypNZhVcPfUhAN6rrFmUWtsJ9gn9X"
                 "share": 100
             }
         ]
     },
-    "description":"Hidden Characters",
+    "description":"Electric Igor",
     "sellerFeeBasisPoints":1000,
     "attributes":[
         {
             "trait_type":"Element",
-            "value":"Hidden"
+            "value":"Electricity"
         },
         {
             "trait_type":"Types",
-            "value":"Hidden"
+            "value":"Human"
         },
         {
             "trait_type":"Normality",
-            "value":"Hidden"
+            "value":"Abnormal"
         }
     ],
     "collection": {
