@@ -1,0 +1,45 @@
+{
+    "name":"Element-Pals #15",
+    "symbol":"ELMNT",
+    "image":"https://arweave.net/zUG_gbtni6PVAPhHIRUwOFnA5uwuKJTX0BjTVNXVjDs",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/zUG_gbtni6PVAPhHIRUwOFnA5uwuKJTX0BjTVNXVjDs",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "CmGJjs9tBEkpVvGLX8Sk7YF8JdrEAb4gjPuogb4dtMTX",
+                "share": 0
+            },
+            {
+                "address": "5WkUK9SrJqM9hr87ypNZhVcPfUhAN6rrFmUWtsJ9gn9X",
+                "share": 100
+            }
+        ]
+    },
+    "description":"a set of gachapon art toys with elemental abilities",
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Element",
+            "value":"Fire"
+        },
+        {
+            "trait_type":"Types",
+            "value":"Goat"
+        },
+        {
+            "trait_type":"Normality",
+            "value":"User"
+        }
+    ],
+    "collection": {
+        "name": "Element-Pals",
+        "family": "igor"
+    }
+}
+            
