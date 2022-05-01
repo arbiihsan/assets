@@ -1,0 +1,45 @@
+{
+    "name":"Element-Pals #31",
+    "symbol":"ELMNT",
+    "image":"https://arweave.net/g2O2u27yteahmrac4_e03POrA5GRJMIrRR7k60O5rO4",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/g2O2u27yteahmrac4_e03POrA5GRJMIrRR7k60O5rO4",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "CmGJjs9tBEkpVvGLX8Sk7YF8JdrEAb4gjPuogb4dtMTX",
+                "share": 0
+            },
+            {
+                "address": "5WkUK9SrJqM9hr87ypNZhVcPfUhAN6rrFmUWtsJ9gn9X",
+                "share": 100
+            }
+        ]
+    },
+    "description":"a set of gachapon art toys with elemental abilities",
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Element",
+            "value":"Electric"
+        },
+        {
+            "trait_type":"Types",
+            "value":"Chicken"
+        },
+        {
+            "trait_type":"Normality",
+            "value":"User"
+        }
+    ],
+    "collection": {
+        "name": "Element-Pals",
+        "family": "igor"
+    }
+}
+            
